@@ -16,7 +16,7 @@ function generateRandomString($length = 10) {
 
 $email_verification = generateRandomString();
 
-$sql = "SELECT * FROM student_profile WHERE student_email = '$email'";
+$sql = "SELECT * FROM company_profile WHERE company_profile_email = '$company_email'";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
@@ -24,8 +24,8 @@ if ($result->num_rows > 0) {
     $_SESSION['message']="The email address you entered is wrong or it has been already registered. Please check it again";
 }
 else {
-    $sql = "INSERT INTO company_profile (company_profile_name, company_profile_slogon, company_profile_email, company_profile_website, company_profile_pwd, company_profile_verify)
-    VALUES ('$company_name','$company_slogon','$company_email','$company_link','$company_pwd','$email_verification')";
+    $sql = "INSERT INTO company_profile (company_profile_name, company_profile_email, company_profile_website, company_profile_pwd, company_profile_verify)
+    VALUES ('$company_name','$company_email','$company_link','$company_pwd','$email_verification')";
 
   if ($conn->query($sql) === TRUE) {
 

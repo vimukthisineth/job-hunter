@@ -7,8 +7,6 @@ $code=$_SESSION['company_email_verification'];
 $message=$_SESSION['company_message'];
 $_SESSION['company_message']=$message;
 $_SESSION['company_email_verification']=$code;
-$company_email_verification=$_SESSION['company_email_verification'];
-$_SESSION['company_email_verification']=$company_email_verification;
 // the message
 $msg = "Your account activation code is : ".$code;
 

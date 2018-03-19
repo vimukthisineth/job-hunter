@@ -1,0 +1,33 @@
+[26-Sep-2017 08:44:17 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'useradminsineth'@'sg2plcpnl0073.prod.sin2.secureserver.net' (using password: YES) in /home/adminsineth/public_html/jobhunter/db/dbconn.php on line 8
+[26-Sep-2017 08:55:03 UTC] PHP Notice:  Undefined variable: message in /home/adminsineth/public_html/jobhunter/account_not_activated.php on line 94
+[27-Sep-2017 05:58:04 UTC] PHP Notice:  Undefined variable: message in /home/adminsineth/public_html/jobhunter/account_not_activated.php on line 94
+[28-Sep-2017 10:33:07 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/adminsineth/public_html/jobhunter/db/dbconn.php on line 8
+[28-Sep-2017 11:16:02 UTC] PHP Notice:  Undefined variable: message in /home/adminsineth/public_html/jobhunter/account_not_activated.php on line 94
+[28-Sep-2017 11:25:01 UTC] PHP Notice:  Undefined variable: message in /home/adminsineth/public_html/jobhunter/account_not_activated.php on line 94
+[28-Sep-2017 12:28:46 UTC] PHP Notice:  Undefined index: message in /home/adminsineth/public_html/jobhunter/mail.php on line 7
+[28-Sep-2017 14:46:12 UTC] PHP Notice:  Undefined index: message in /home/adminsineth/public_html/jobhunter/mail.php on line 7
+[28-Sep-2017 16:49:00 UTC] PHP Notice:  Undefined index: company_slogon in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 7
+[28-Sep-2017 16:49:00 UTC] PHP Notice:  Undefined variable: email in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 19
+[28-Sep-2017 16:50:56 UTC] PHP Notice:  Undefined index: company_slogon in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 7
+[28-Sep-2017 16:50:56 UTC] PHP Notice:  Undefined variable: email in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 19
+[28-Sep-2017 16:50:56 UTC] PHP Notice:  Undefined index: company_message in /home/adminsineth/public_html/jobhunter/company_mail.php on line 7
+[28-Sep-2017 16:53:00 UTC] PHP Notice:  Undefined index: company_slogon in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 7
+[28-Sep-2017 16:53:00 UTC] PHP Notice:  Undefined variable: email in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 19
+[28-Sep-2017 16:56:06 UTC] PHP Notice:  Undefined index: company_slogon in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 7
+[28-Sep-2017 16:56:06 UTC] PHP Notice:  Undefined variable: email in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 19
+[28-Sep-2017 16:56:43 UTC] PHP Notice:  Undefined index: company_slogon in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 7
+[28-Sep-2017 16:56:43 UTC] PHP Notice:  Undefined variable: email in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 19
+[29-Sep-2017 02:01:58 UTC] PHP Notice:  Undefined variable: message in /home/adminsineth/public_html/jobhunter/account_not_activated.php on line 94
+[29-Sep-2017 02:30:10 UTC] PHP Notice:  Undefined variable: message in /home/adminsineth/public_html/jobhunter/company_account_not_activated.php on line 94
+[29-Sep-2017 02:30:16 UTC] PHP Notice:  Undefined variable: email_verification in /home/adminsineth/public_html/jobhunter/resend_email.php on line 19
+[29-Sep-2017 02:30:16 UTC] PHP Notice:  Undefined index: code in /home/adminsineth/public_html/jobhunter/mail.php on line 6
+[29-Sep-2017 02:36:13 UTC] PHP Notice:  Undefined variable: email_verification in /home/adminsineth/public_html/jobhunter/resend_email.php on line 19
+[29-Sep-2017 02:36:13 UTC] PHP Notice:  Undefined index: code in /home/adminsineth/public_html/jobhunter/mail.php on line 6
+[29-Sep-2017 02:42:16 UTC] PHP Notice:  Undefined variable: email_verification in /home/adminsineth/public_html/jobhunter/resend_email.php on line 19
+[29-Sep-2017 02:42:16 UTC] PHP Notice:  Undefined index: code in /home/adminsineth/public_html/jobhunter/mail.php on line 6
+[29-Sep-2017 02:48:31 UTC] PHP Notice:  Undefined index: company_slogon in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 7
+[29-Sep-2017 02:48:31 UTC] PHP Notice:  Undefined variable: email in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 19
+[29-Sep-2017 02:48:31 UTC] PHP Notice:  Undefined index: company_message in /home/adminsineth/public_html/jobhunter/company_mail.php on line 7
+[29-Sep-2017 03:49:18 UTC] PHP Notice:  Undefined index: company_slogon in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 7
+[29-Sep-2017 03:49:18 UTC] PHP Notice:  Undefined index: company_message in /home/adminsineth/public_html/jobhunter/company_mail.php on line 7
+[29-Sep-2017 03:53:57 UTC] PHP Notice:  Undefined index: company_slogon in /home/adminsineth/public_html/jobhunter/company_stage2.php on line 7
